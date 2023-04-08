@@ -1,0 +1,25 @@
+# Candidate info
+Khurmuzakii Olesya Arkadievna
+Developer
+Female
+12.05.2004
+hurmuzz@yandex.ru, 89775176539
+not ready
+
+# Education
+higher
+2020-2024
+Polytech
+
+# Job experience
+##
+1995-2345
+m&m's
+best company ever
+##
+1995-2345
+not m&m's
+not best company ever
+
+# Free block
+hi
